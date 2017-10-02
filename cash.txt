@@ -38,3 +38,5 @@ Please complete the following steps:
 
 Add your message here.
 
+from python import funnyJoke
+return funnyJoke.random()
